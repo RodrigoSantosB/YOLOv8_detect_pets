@@ -1,4 +1,4 @@
-## IMPORTANTE QUE SEJA RODADO EM GPU (se for na maquina local)
+#IMPORTANTE QUE SEJA RODADO EM GPU (se for na maquina local)
 
 0. Baixar e instalar drivers Nvdia para sua versao de placa:
     `https://www.edivaldobrito.com.br/driver-nvidia-no-linux/`    
