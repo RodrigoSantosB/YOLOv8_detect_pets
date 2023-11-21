@@ -1,0 +1,14 @@
+path: /home/rsb6/Desktop/RoboCin/visao/Tasks/pets_detection_yolov8
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Pedrita', 'Simba', 'Theo']
+
+roboflow:
+  workspace: animalsdetect
+  project: pets_detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/animalsdetect/pets_detection/dataset/1

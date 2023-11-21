@@ -1,0 +1,10 @@
+Criar DataSet:
+    Baixar imagens
+    baixar e instalar labelImg
+    anotar as imagens
+    dividir as imagens em treino e teste
+
+Configurar o arquivo Data
+Configurar o arquivo cfg
+Treinar
+teste em scrips

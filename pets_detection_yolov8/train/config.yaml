@@ -1,0 +1,7 @@
+path: /home/rsb6/Desktop/RoboCin/visao/Tasks/pets_detection.v1i.yolov8/train
+train: train/images 
+val: train/images
+
+# Classes
+nc: 3
+names: ['Pedrita', 'Simba', 'Theo']  
