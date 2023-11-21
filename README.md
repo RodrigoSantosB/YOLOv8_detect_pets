@@ -4,7 +4,7 @@
     `https://www.edivaldobrito.com.br/driver-nvidia-no-linux/`    
 
 1. Baixar e configurar CUDA (11.x ou 12.x) na sua maquina:
-    * isso pode ser feito por meio da documentação (https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html), tenha cuidado com a versao do ubuntu que está  usando. A instalação costuma ser muito expecífica (versões que fucionam bem 18.04, 20.04, 22.04 LTS)
+    * isso pode ser feito por meio da documentação (https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html), tenha cuidado com a versão do ubuntu que está  usando. A instalação costuma ser muito expecífica (versões que fucionam bem 18.04, 20.04, 22.04 LTS)
 
 2. Instalar o pytorch via pip, baixar o ultralytics via pip:
    ```
