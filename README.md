@@ -1,10 +1,10 @@
-# IMPORTANTE QUE SEJA RODADO EM GPU (se for na maquina local)
+# IMPORTANTE QUE SEJA RODADO EM GPU (se for na máquina local)
 
-0. Baixar e instalar drivers Nvdia para sua versao de placa:
+0. Baixar e instalar drivers Nvdia para sua versão de placa:
     `https://www.edivaldobrito.com.br/driver-nvidia-no-linux/`    
 
 1. Baixar e configurar CUDA (11.x ou 12.x) na sua maquina:
-    * isso pode ser feito por meio da documentacao (https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html), tenha cuidado com a versao do ubuntu que esta  usando. A instalacao costuma ser muito expecifica (versoes que fucionam bem 18.04, 20.04, 22.04 LTS)
+    * isso pode ser feito por meio da documentação (https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html), tenha cuidado com a versao do ubuntu que está  usando. A instalação costuma ser muito expecífica (versões que fucionam bem 18.04, 20.04, 22.04 LTS)
 
 2. Instalar o pytorch via pip, baixar o ultralytics via pip:
    ```
