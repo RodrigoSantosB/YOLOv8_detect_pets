@@ -7,7 +7,11 @@
     * isso pode ser feito por meio da documentacao (https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html), tenha cuidado com a versao do ubuntu que esta  usando. A instalacao costuma ser muito expecifica (versoes que fucionam bem 18.04, 20.04, 22.04 LTS)
 
 2. Instalar o pytorch via pip, baixar o ultralytics via pip:
+   ```
     pip install torch
     pip install ultralytics
-
-3. Treinar o modelo, instanciando o modelo na linha `model = YOLO("yolov8n.yaml")`  e configurando corretamente o path de onde seus arquivos estao ex: `path: /home/usr/desktop/pasta/visao/pasta_que contem_os_arquvos_yolov8`
+   ```
+4. Treinar o modelo, instanciando o modelo na linha
+   ``` `model = YOLO("yolov8n.yaml")` ```
+   e configurando corretamente o path de onde seus arquivos estao ex:
+    ``` `path: /home/usr/desktop/pasta/visao/pasta_que contem_os_arquvos_yolov8` ```
