@@ -5,6 +5,6 @@ Criar DataSet:
     dividir as imagens em treino e teste
 
 Configurar o arquivo Data
-Configurar o arquivo cfg
+Configurar o arquivo .yaml
 Treinar
 teste em scrips
